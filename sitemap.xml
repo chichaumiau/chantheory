@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://chichaumiau.github.io/chantheory/blog/2017/10/20/test/</loc>
+<lastmod>2017-10-20T15:58:22+01:00</lastmod>
+</url>
+<url>
 <loc>http://chichaumiau.github.io/chantheory/blog/archives/</loc>
 </url>
 <url>
 <loc>http://chichaumiau.github.io/chantheory/</loc>
+</url>
+<url>
+<loc>http://chichaumiau.github.io/chantheory/blog/categories/chan-lun/</loc>
 </url>
 </urlset>
