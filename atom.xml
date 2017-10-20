@@ -4,7 +4,7 @@
   <title><![CDATA[Chan theory]]></title>
   <link href="http://chichaumiau.github.io/chantheory/atom.xml" rel="self"/>
   <link href="http://chichaumiau.github.io/chantheory/"/>
-  <updated>2017-10-20T20:13:13+01:00</updated>
+  <updated>2017-10-20T20:56:56+01:00</updated>
   <id>http://chichaumiau.github.io/chantheory/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -14,22 +14,61 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Install Octopress]]></title>
+    <link href="http://chichaumiau.github.io/chantheory/blog/2017/10/20/install-octopress/"/>
+    <updated>2017-10-20T20:46:55+01:00</updated>
+    <id>http://chichaumiau.github.io/chantheory/blog/2017/10/20/install-octopress</id>
+    <content type="html"><![CDATA[<h1>安装Octopress步骤</h1>
+
+<blockquote><p>git clone git://github.com/imathis/octopress.git octopress<br/>
+cd octopress</p></blockquote>
+
+<p>Next, install dependencies.</p>
+
+<blockquote><p>gem install bundler<br/>
+rbenv rehash    # If you use rbenv, rehash to be able to run the bundle command<br/>
+bundle install</p></blockquote>
+
+<p>Install the default Octopress theme.</p>
+
+<blockquote><p>rake install</p></blockquote>
+
+<h1>发布post</h1>
+
+<blockquote><p>rake new_page[super-awesome]</p>
+
+<p>rake generate<br/>
+sudo rake deploy</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chapter1]]></title>
+    <link href="http://chichaumiau.github.io/chantheory/blog/2017/10/20/chapter1/"/>
+    <updated>2017-10-20T20:24:15+01:00</updated>
+    <id>http://chichaumiau.github.io/chantheory/blog/2017/10/20/chapter1</id>
+    <content type="html"><![CDATA[<h1>第一章  形态学</h1>
+
+<pre><code>站在纯理论的角度，形态学是最根本的。形态学，从本质上就是几何，这部分内容，是无须任何前提的。就算一个庄家自己全买了，一个人天天自我交易，也永远逃不出形态学画的圈圈。光用形态学，就足以形成一套有效的操作体系。只是在形态学中，由于没有背驰的概念，所以第一买卖点是抓不住了，但第二买卖点是肯定没问题的。单纯用形态学去操作，就是任何对最后一个走势中枢的回拉后第一个与回拉反向的不创新高或新低的走势中枢同级别离开，就是买卖段。如此，第三类买卖点也可以把握。
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[前言 关于“缠中说禅” 股市技术理论]]></title>
-    <link href="http://chichaumiau.github.io/chantheory/blog/2017/10/20/test/"/>
+    <link href="http://chichaumiau.github.io/chantheory/blog/2017/10/20/preface/"/>
     <updated>2017-10-20T15:58:22+01:00</updated>
-    <id>http://chichaumiau.github.io/chantheory/blog/2017/10/20/test</id>
+    <id>http://chichaumiau.github.io/chantheory/blog/2017/10/20/preface</id>
     <content type="html"><![CDATA[<h1>“缠中说禅” 股市技术理论</h1>
 
 <h2>前言关于“缠中说禅” 股市技术理论</h2>
 
 <h3>——市场哲学的数学原理</h3>
 
-<pre><code>一、为什么叫“缠中说禅”？
-</code></pre>
-
-<p>1、以股市为基础。缠者，价格重叠区间也，买卖双方阵地战之区域也；禅者，破解之道也。以阵地战为中心，比较前后两段之力度大小，大者，留之，小者，去之。<br/>
+<blockquote><p>   一、为什么叫“缠中说禅”？<br/>
+1、以股市为基础。缠者，价格重叠区间也，买卖双方阵地战之区域也；禅者，破解之道也。以阵地战为中心，比较前后两段之力度大小，大者，留之，小者，去之。<br/>
 2、以现实存在为基础。缠者，人性之纠结，贪嗔痴疑慢也；禅者，觉悟、超脱者也。以禅破缠，上善若水，尤如空筒，随波而走，方入空门。<br/>
-3、缠中说禅的哲学路线安排。由股市之解决之道，至论语之入世之道，至佛学之大至深大圆满境界。以静坐、心经、佛号，引入大超脱之路。然“理则顿悟，乘悟并销；事须渐除，依次第进”，有缘者得之，无缘者失之，而得并未得，失并未失，一颗明珠，总有粉碎虚空，照破山河之日。<br/></p>
+3、缠中说禅的哲学路线安排。由股市之解决之道，至论语之入世之道，至佛学之大至深大圆满境界。以静坐、心经、佛号，引入大超脱之路。然“理则顿悟，乘悟并销；事须渐除，依次第进”，有缘者得之，无缘者失之，而得并未得，失并未失，一颗明珠，总有粉碎虚空，照破山河之日。<br/></p></blockquote>
 
 <pre><code>二、“缠中说禅”股市技术理论成立的前提
 </code></pre>
